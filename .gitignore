@@ -361,3 +361,21 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Carpetas de compilación de C#
+bin/
+obj/
+
+# Configuraciones de VS Code y Visual Studio
+.vscode/
+.vs/
+UserSecrets/
+
+# Archivos de datos (opcional, por si no quieres subir tus CSV)
+*.csv
+
+bin/
+obj/
+.vs/
+.vscode/
+*.user
